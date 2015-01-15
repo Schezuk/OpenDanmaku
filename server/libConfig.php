@@ -6,5 +6,4 @@
 	$DB_NAME="NameOfDB";	//databese name
 	$DB_PORT=      3306;	//database port
 	/* be aware 'const' works ONLY INSIDE of a class definition */
-	
 ?>
